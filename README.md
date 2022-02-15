@@ -17,7 +17,7 @@ I'm Bill, a second year Software Engineering student from UNSW.
 - Cloud Infrastructure
 - Web3/Blockchain technologies
 
-💬 Reach me via [Linkedin](https://www.linkedin.com/in/bill-wong1/)
+💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/bill-wong1/)
 
 📫 Visit my website: [billw.space](https://billw.space)
 
