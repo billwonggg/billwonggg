@@ -5,18 +5,19 @@ I'm Bill, a second year Software Engineering Student from UNSW.
 😄  Pronouns: He/Him
 
 ⚡️  Experience:
-- Client Care Representative at 4Cyte Pathology \[ Sydney, _Nov 2020 - Present_ \]
-- Accenture Tech Bootcamp 2022 Participant \[ Sydney, _Feb 2022_ \]
+ * Client Care Representative at 4Cyte Pathology  **\[ Sydney, _Nov 2020 - Present_ \]**
+ * AWS Early Careers Innovation Program  **\[ Sydney, _Apr 2022 - Present_ \]**
+ * Accenture Tech Bootcamp 2022  **\[ Sydney, _Feb 2022_ \]**
 
 🔭  Current Project:
-- COVID-19 restrictions and policies world map. (React.js, Material UI, React-Leaflet)
+- Real Time Messaging Web app (React.js, ChatEngine.io, Google Firebase)
 
 🤔  Planning to learn:
-- Backend tools with Amazon Web Services (AWS) 
+- Backend with Amazon Web Services (AWS) 
 
 🌱  Interests:
 - Web Development
-- Cloud Infrastructure
+- Cloud Computing
 - Web3 / Blockchain technologies
 
 💬  Connect with me on [_**LinkedIn**_](https://www.linkedin.com/in/bill-wong1/)
