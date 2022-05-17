@@ -6,14 +6,16 @@ I'm Bill, a second year Software Engineering Student from UNSW.
 
 ⚡️  Experience:
  * Client Care Representative at 4Cyte Pathology  **\[ Sydney, _Nov 2020 - Present_ \]**
- * AWS Early Careers Innovation Program  **\[ Sydney, _Apr 2022 - Present_ \]**
+ * AWS Early Careers Innovation Program  **\[ Sydney, _Apr 2022 - May 2022_ \]**
  * Accenture Tech Bootcamp 2022  **\[ Sydney, _Feb 2022_ \]**
 
 🔭  Current Project:
+- Calculator App with TypeScript
 - Real Time Messaging Web app (React.js, ChatEngine.io, Google Firebase)
 
 🤔  Planning to learn:
-- Backend with Amazon Web Services (AWS) 
+- Amazon Web Services (AWS)
+- Azure
 
 🌱  Interests:
 - Web Development
