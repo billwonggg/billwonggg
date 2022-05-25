@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 I'm Bill, a second year Software Engineering Student from UNSW. 
 
@@ -13,9 +13,25 @@ I'm Bill, a second year Software Engineering Student from UNSW.
 - Calculator App with TypeScript
 - Real Time Messaging Web app (React.js, ChatEngine.io, Google Firebase)
 
+🥳  Skills:
+
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts&theme=light" style="height: 40px;"
+  />
+  <br />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,materialui,nodejs,react" style="height: 40px;"
+  />
+  <br />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,gitlab,bash" style="height: 40px;"
+  />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,azure,firebase" style="height: 40px;"/>
+                
 🤔  Planning to learn:
-- Amazon Web Services (AWS)
-- Azure
+- SQL
+- Express.js
 
 🌱  Interests:
 - Web Development
