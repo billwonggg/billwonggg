@@ -27,14 +27,15 @@ I'm Bill, a second year Software Engineering Student from UNSW.
     src="https://skillicons.dev/icons?i=git,github,gitlab,bash" style="height: 40px;"
   />
   <br />
-  <img src="https://skillicons.dev/icons?i=aws,azure,firebase" style="height: 40px;"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase" style="height: 40px;"/>
                 
 🤔  Planning to learn:
 - SQL
 - Express.js
+- Docker/Kubernetes
 
 🌱  Interests:
-- Web Development
+- Full Stack Development
 - Cloud Computing
 - Web3 / Blockchain technologies
 
