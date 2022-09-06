@@ -19,31 +19,27 @@ I'm Bill, a second year Software Engineering Student from UNSW.
   />
   <br />
   <img
-    src="https://skillicons.dev/icons?i=html,css,materialui,nodejs,react" style="height: 40px;"
+    src="https://skillicons.dev/icons?i=html,css,materialui,nodejs,react,express" style="height: 40px;"
   />
   <br />
   <img
-    src="https://skillicons.dev/icons?i=git,github,gitlab,bash" style="height: 40px;"
+    src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker" style="height: 40px;"
   />
   <br />
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase" style="height: 40px;"/>
                 
 🤔  Planning to learn:
 - SQL
-- Express.js
 - Docker/Kubernetes
+- Computer Networks
 
 🌱  Interests:
 - Full Stack Development
 - Cloud Computing
 - Web3 / Blockchain technologies
 
-💬  Connect with me on [_**LinkedIn**_](https://www.linkedin.com/in/bill-wong1/)
+💬  Connect with me on [**LinkedIn**](https://www.linkedin.com/in/bill-wong1/).
 
-📫  Visit my website: [_**billw.space**_](https://billw.space)
-
-
-<!-- - ⚡ Fun fact: ... -->
-<!-- - 👯 I’m looking to collaborate on ... -->
+📫  Visit my website [**billw.space**](https://billw.space) to learn more about me.
 
 
