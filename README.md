@@ -29,9 +29,9 @@ I'm Bill, a second year Software Engineering Student from UNSW.
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase" style="height: 40px;"/>
                 
 🤔  Planning to learn:
-- SQL
+- Swift
+- React Native
 - Docker/Kubernetes
-- Computer Networks
 
 🌱  Interests:
 - Full Stack Development
