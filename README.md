@@ -10,6 +10,7 @@ I'm Bill, a second year Software Engineering Student from UNSW.
  * Accenture Tech Bootcamp 2022  **\[ Sydney, _Feb 2022_ \]**
 
 🔭  Current Project:
+- Reworking personal website
 - Real Time Messaging Web app (React.js, MUI, Express.js, Socket.io)
 
 🥳  Skills:
