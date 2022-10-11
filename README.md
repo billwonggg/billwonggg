@@ -10,8 +10,8 @@ I'm Bill, a second year Software Engineering Student from UNSW.
  * Accenture Tech Bootcamp 2022  **\[ Sydney, _Feb 2022_ \]**
 
 🔭  Current Project:
-- Reworking personal website (React, TypeScript, SCSS)
-- Real Time Messaging Web app (React.js, MUI, Express.js, Socket.io)
+- Reworking Personal Website (React, TypeScript, SCSS)
+- Real Time Messaging Web app (React, MUI, Express.js, Socket.io)
 
 🥳  Skills:
 
@@ -27,12 +27,13 @@ I'm Bill, a second year Software Engineering Student from UNSW.
     src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker" style="height: 40px;"
   />
   <br />
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase" style="height: 40px;"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,postgres" style="height: 40px;"/>
                 
 🤔  Planning to learn:
-- Swift
-- React Native
-- Docker/Kubernetes
+- GraphQL
+- Java Spring Boot
+- Swift / React Native
+
 
 🌱  Interests:
 - Full Stack Development
