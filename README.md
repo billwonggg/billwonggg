@@ -2,8 +2,6 @@
 
 I'm Bill, a second year Software Engineering Student from UNSW. 
 
-😄  Pronouns: He/Him
-
 ⚡️  Experience:
  * AWS Early Careers Innovation Program  **\[ Sydney, _Apr 2022 - May 2022_ \]**
  * Accenture Tech Bootcamp 2022  **\[ Sydney, _Feb 2022_ \]**
