@@ -39,6 +39,6 @@ I'm Bill, a second year Software Engineering Student from UNSW.
 
 💬  Connect with me on [**LinkedIn**](https://www.linkedin.com/in/bill-wong1/).
 
-📫  Visit my website [**billw.space**](https://billw.space) to learn more about me.
+📫  Visit my website [**billw.info**](https://billw.info) to learn more about me.
 
 
