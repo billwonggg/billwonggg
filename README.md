@@ -1,10 +1,11 @@
 ### Hi there! 👋
 
-I'm Bill, a second year Software Engineering Student from UNSW. 
+I'm Bill, a third year Software Engineering Student from UNSW. 
 
 ⚡️  Experience:
+ * Software Engineering Intern @ NAB     **\[ Sydney, _Feb 2023 - Present_ \]**
  * AWS Early Careers Innovation Program  **\[ Sydney, _Apr 2022 - May 2022_ \]**
- * Accenture Tech Bootcamp 2022  **\[ Sydney, _Feb 2022_ \]**
+ * Accenture Tech Bootcamp 2022          **\[ Sydney, _Feb 2022_ \]**
 
 🔭  Current Project:
 - Reworking Personal Website **(React, TypeScript, SCSS)**
