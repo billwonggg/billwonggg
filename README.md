@@ -3,7 +3,8 @@
 I'm Bill, a third year Software Engineering Student from UNSW. 
 
 ⚡️  Experience:
- * Software Engineering Intern @ NAB     **\[ Sydney, _Feb 2023 - Present_ \]**
+ * Software Engineering Intern @ Atlassian     **\[ Sydney, _Nov 2023 - Present_ \]**
+ * Software Engineering Intern @ NAB     **\[ Sydney, _Feb 2023 - Nov 2023_ \]**
  * AWS Early Careers Innovation Program  **\[ Sydney, _Apr 2022 - May 2022_ \]**
  * Accenture Tech Bootcamp 2022          **\[ Sydney, _Feb 2022_ \]**
 
