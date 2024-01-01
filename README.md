@@ -15,18 +15,18 @@ I'm Bill, a third year Software Engineering Student from UNSW.
 🥳  Skills:
 
   <img
-    src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts&theme=light" style="height: 40px;"
+    src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,ts&theme=light" style="height: 40px;"
   />
   <br />
   <img
-    src="https://skillicons.dev/icons?i=html,css,materialui,nodejs,react,express" style="height: 40px;"
+    src="https://skillicons.dev/icons?i=spring,materialui,nodejs,react,express,postgres" style="height: 40px;"
   />
   <br />
   <img
-    src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker" style="height: 40px;"
+    src="https://skillicons.dev/icons?i=git,github,gitlab,bash,docker,kubernetes" style="height: 40px;"
   />
   <br />
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,postgres" style="height: 40px;"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase" style="height: 40px;"/>
                 
 🤔  Planning to learn:
 - GraphQL
